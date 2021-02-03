@@ -1,1 +1,1 @@
-# Predictiing-Readmission-of-Diabetic-Patients
+# Predicting-Readmission-of-Diabetic-Patients
