@@ -2,8 +2,7 @@
  Our Main Objective of this Project is to identify the Critical factors that
 influence readmission for diabetes &amp; to predict the probability of
 patient readmission Using Machine Learning models in Python.
- The dataset we provide can be downloaded from https://archive.ics.
-uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-
+ The dataset we provide can be downloaded from https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-
 2008#. The dataset represents 10 years (1999-2008) of clinical care
 at 130 US hospitals and integrated delivery networks. It includes over
 50 features representing patient and hospital outcomes.
@@ -24,10 +23,10 @@ of race, age, gender etc. The EDA gave us some interesting insights
 as the readmission is more in female people and in the Caucasian
 race.
 Models applied are -
- Logistic Regression.
- Random Forest Classifier.
- Adaboosted Classification Model.
- Hyperparameters Tunning For Adaboosted.
+1. Logistic Regression.
+2. Random Forest Classifier.
+3. Adaboosted Classification Model.
+4. Hyperparameters Tunning For Adaboosted.
 
  The overall comparison of methods on the basis of their accuracy
 sensitivity and ROC Values was generated as the output with
